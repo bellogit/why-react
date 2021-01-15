@@ -37,7 +37,7 @@ The insight [Stackoverflow Survey](https://insights.stackoverflow.com/survey/202
 #### Techstack | Flutterwave 
 Techstack article, sponsored by Flutterwave. Flutterwave is the easiest way to make and accept payments both online and offline from customers anywhere in the world. It is absolutely free!  Also, you get a Flutterwave dollar barter card when you [signup](https://dashboard.flutterwave.com/signup?referrals=RV686851). Open an online store and take your business anywhere in the world.
 
-%[https://youtu.be/ClXVUM3Rf7A]
+Check out the [Flutterwave short demo](https://youtu.be/ClXVUM3Rf7A).
 
 [Sign up](https://dashboard.flutterwave.com/signup?referrals=RV686851) today to get started.
 
